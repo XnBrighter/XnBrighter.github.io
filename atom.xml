@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-31T03:40:25.861Z</updated>
+  <updated>2017-12-31T04:00:12.504Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,11 +21,21 @@
     <link href="http://yoursite.com/2017/12/31/JavaScript%E7%AE%80%E5%8F%B2-1/"/>
     <id>http://yoursite.com/2017/12/31/JavaScript简史-1/</id>
     <published>2017-12-31T03:40:25.000Z</published>
-    <updated>2017-12-31T03:40:25.861Z</updated>
+    <updated>2017-12-31T04:00:12.504Z</updated>
+    
+    <content type="html"><![CDATA[<p>asd</p>]]></content>
     
     <summary type="html">
     
+      
+      
+        &lt;p&gt;asd&lt;/p&gt;
+
+      
+    
     </summary>
+    
+      <category term="JavaScript" scheme="http://yoursite.com/categories/JavaScript/"/>
     
     
   </entry>
